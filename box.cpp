@@ -10,7 +10,6 @@ int main ()
   std::cout << "\n------------------\n";
   std::cout << box(18,28);
   std::cout << "\n------------------\n";
-
  
   std::cout << "\n" << "Task B:" << "\n";
   std::cout << "\n------------------\n";
@@ -26,7 +25,6 @@ int main ()
   std::cout << cross(15);
   std::cout << "\n------------------\n";
   
-
   std::cout << "\n" << "Task D" << "\n";
   std::cout << "\n------------------\n";
   std::cout << lower(8);
@@ -40,8 +38,6 @@ int main ()
   std::cout << "\n------------------\n";
   std::cout << upper(5);
   std::cout << "\n------------------\n";
-
-  
  
   std::cout << "\n" << "Task F:" << "\n";
   std::cout << "\n------------------\n";
@@ -50,7 +46,6 @@ int main ()
   std::cout << trapezoid(13,9);
   std::cout << "\n------------------\n";
 
-  
   std::cout << "\n" << "Task G:" << "\n";
   std::cout << "\n------------------\n";
   std::cout << checkerboard3x3(24,24);
